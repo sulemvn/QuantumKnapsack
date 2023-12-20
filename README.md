@@ -16,3 +16,5 @@ Using scenarios with varying item counts, the project contrasts the effectivenes
 
 ## Conclusion
 This study highlights quantum annealing as a more efficient, albeit less precise, solution for complex optimization problems like the Knapsack Problem.
+
+_Note: Detailed instructions and requirements are available in the report._
