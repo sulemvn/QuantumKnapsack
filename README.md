@@ -1,18 +1,18 @@
 # Solving the 0/1 Knapsack problem using Quantum Annealing
 
 ## Overview
-This project explores quantum annealing to optimize the Knapsack Problem, merging quantum computing with classic optimization challenges.
+This project compares quantum annealing and brute force methods in solving the Knapsack Problem. It focuses on demonstrating the efficiency and practicality of quantum computing in optimization.
 
 ## Objectives
-- Implement quantum annealing in solving the Knapsack Problem.
-- Assess quantum solutions versus traditional methods.
+- Compare quantum annealing with traditional brute force approaches.
+- Analyze efficiency in different problem scales.
 
 ## Methodology
-The focus is on utilizing quantum annealing and comparing it with conventional algorithms, highlighting the advanced computational strategies in quantum computing.
+Using scenarios with varying item counts, the project contrasts the effectiveness and processing time of both methods, with a focus on quantum annealing.
 
 ## Key Findings
-- Quantum annealing showed enhanced efficiency in problem-solving.
-- Notable improvements in computational speed and accuracy were observed.
+- Quantum annealing outperforms brute force in larger, more complex scenarios.
+- Quantum results show close approximations, but not exact solutions compared to brute force.
 
 ## Conclusion
-The findings underscore the transformative impact of quantum annealing in algorithmic optimization, especially in complex problem-solving scenarios.
+This study highlights quantum annealing as a more efficient, albeit less precise, solution for complex optimization problems like the Knapsack Problem.
